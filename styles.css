@@ -135,6 +135,7 @@ rect {
 
 .feature-text h1 {
   font-size: 30px;
+  line-height: 1.3;
 }
 
 .feature-text h1:hover {
@@ -182,8 +183,12 @@ rect {
 }
 
 .square p {
-  font-size: 12px;
+  font-size: 14px;
   margin: 4px 0;
+}
+
+.square .author {
+  font-size: 14px;
 }
 
 .square h3 {
@@ -361,7 +366,7 @@ footer li {
   }
 
   .square p {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .square-image img {
@@ -424,12 +429,16 @@ footer li {
 
 .article-title h1 {
   font-size: 40px;
-  line-height: 1.1;
+  line-height: 1.3;
   letter-spacing: .1rem;
 }
 
 .article-body {
   width: 55vw;
+}
+
+.article-text .author {
+  font-size: 18px;
 }
 
 .article-body p {
@@ -455,8 +464,8 @@ footer li {
     font-size: 26px;
   }
 
-  .author {
-    font-size: 11px;
+  .article-text .author {
+    font-size: 16px;
   }
 
   .date {
