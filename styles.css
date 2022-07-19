@@ -73,14 +73,18 @@ rect {
 }
 
 .twitter {
-  height: 30px;
-  background-color: #E7FF70
+  height: 22px;
+  background-color: #E7FF70;
 }
 
 .insta {
-  height: 30px;
+  height: 22px;
   margin-left: 2rem;
   background-color: #E7FF70;
+}
+
+.author-container .twitter {
+  background-color: white;
 }
 
 .social {
