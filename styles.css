@@ -45,10 +45,11 @@ li:hover {
 
 .title {
   color: #E7FF70;
-  font-size: 24px;
+  font-size: 28px;
   font-style: italic;
   font-weight: bolder;
-  margin-left: 2rem;
+  margin-left: 3rem;
+  margin-right: 2rem;
 }
 
 .title:hover {
@@ -304,7 +305,11 @@ footer li {
   }
 
   .mobile-nav .twitter {
-    height: 25px;
+    height: 20px;
+  }
+
+  .author-container .twitter {
+    height: 18px;
   }
 
   .mobile-nav .burger-icon {
