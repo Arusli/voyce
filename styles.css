@@ -146,6 +146,10 @@ rect {
   font-size: 16px;
 }
 
+.feature-text .author {
+  font-size: 20px;
+}
+
 /* grid */
 .grid-container {
   width: 100%;
@@ -346,6 +350,10 @@ footer li {
     font-size: 10px;
   }
 
+  .feature-text .author {
+    font-size: 16px;
+  }
+
   /* grid */
   .grid-container {
     grid-template-columns: 1fr;
@@ -366,7 +374,7 @@ footer li {
   }
 
   .square p {
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .square-image img {
@@ -438,7 +446,7 @@ footer li {
 }
 
 .article-text .author {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .article-body p {
@@ -465,7 +473,7 @@ footer li {
   }
 
   .article-text .author {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .date {
