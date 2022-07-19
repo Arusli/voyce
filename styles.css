@@ -48,6 +48,9 @@ li:hover {
   font-size: 28px;
   font-style: italic;
   font-weight: bolder;
+}
+
+.nav .title {
   margin-left: 3rem;
   margin-right: 1.5rem;
 }
